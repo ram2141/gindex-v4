@@ -1,6 +1,6 @@
 // =======Options START=======
 var authConfig = {
-  siteName: "Glory to Heaven",
+  siteName: "Welcome to RelaxTV",
   hybridpass: "Copy Hybrid Password Generated from Backend",
   version: "v8.1.3",
   theme: "green",
